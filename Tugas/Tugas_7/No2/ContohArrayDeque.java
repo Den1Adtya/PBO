@@ -11,9 +11,9 @@ public class ContohArrayDeque {
 
         System.out.println("tumpukan awal: " + tumpukan);
 
-        tumpukan.poll(); // hapus depan
+        tumpukan.poll(); 
         System.out.println("Setelah diambil: " + tumpukan);
-
+        //Deni Aditya Saputra
         tumpukan.addFirst("Buku 4");
         System.out.println("Tambah buku: " + tumpukan);
     }

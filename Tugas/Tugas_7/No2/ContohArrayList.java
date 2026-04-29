@@ -7,7 +7,7 @@ public class ContohArrayList {
         lagu.add("Weird Fishes - Radiohead");
         lagu.add("Black Friday - Tom Odell");
         lagu.add("Creep - Radiohead");
-
+        //Deni Aditya Saputra
         System.out.println("Daftar lagu favorit:");
         for (String l : lagu) {
             System.out.println(l);

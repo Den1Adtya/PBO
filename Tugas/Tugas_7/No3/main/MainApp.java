@@ -1,5 +1,5 @@
 package Tugas_7.No3.main;
-
+//Deni Aditya Saputra
 import java.util.Scanner;
 
 import Tugas_7.No3.model.*;
