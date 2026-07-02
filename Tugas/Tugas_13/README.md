@@ -1,15 +1,15 @@
 ## Screenshot Program
 
-### 1. Menu Utama
+### 1. Tampilkan Semua Data
 ![Menu Utama](Menu1.png)
 
-### 2. Tampilkan Semua Data
+### 2. Tambah Data
 ![Tampilkan Data](Menu2.png)
 
-### 3. Tambah Data
+### 3. Cari Data
 ![Tambah Data](Menu3.png)
 
-### 4. Cari / Ubah Data
+### 4. Ubah Data
 ![Ubah Data](Menu4.png)
 
 ### 5. Hapus Data
