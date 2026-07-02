@@ -1,10 +1,11 @@
 Screenshot Program
-
 Tampilan Aplikasi Biodata Mahasiswa
+
+Menampilkan Biodata Mahasiswa
 
 ![Menampilkan Biodata Mahasiswa](Tampilkan.png)
 
-Tambah Data
+Tampilan Reset
 
 ![Tampilan Reset](Reset.png)
 
